@@ -34,7 +34,3 @@ I enjoy learning by building projects and gradually strengthening my fundamental
 - Git, GitHub, Postman  
 
 ---
-
-## 📫 Connect with Me
-- GitHub: https://github.com/Ahadx488  
-- LinkedIn: [https://linkedin.com/in/abdul-ahad-momin-95245a27a  ](https://www.linkedin.com/in/abdul-ahad-momin-95245a27a)

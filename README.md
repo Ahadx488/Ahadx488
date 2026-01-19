@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Momin Abdul Ahad 👋
 
-<!--
-**Ahadx488/Ahadx488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech student in **Electronics and Communication Engineering** at **IIIT Allahabad**.  
+I’m interested in **software development**, **data-driven problem solving**, and building systems that work reliably on real-world data.
 
-Here are some ideas to get you started:
+I enjoy learning by building projects and gradually strengthening my fundamentals in **algorithms, backend development, and applied machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Interests
+- Backend development and APIs  
+- Data processing and analytics  
+- Machine learning fundamentals  
+- Problem solving using Data Structures and Algorithms  
+
+---
+
+## 🧠 Skills
+**Programming Languages**
+- Python, C++, C, Javascript 
+- Java (Basic), SQL (Basic)
+
+**Data & ML**
+- Pandas, NumPy, Scikit-learn  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering, Model Evaluation  
+
+**Backend (Learning)**
+- Express.js, Node.js, MongoDB  
+- REST APIs, basic authentication  
+
+**Visualization & Tools**
+- Matplotlib, Seaborn, Streamlit  
+- Git, GitHub, Postman  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/Ahadx488  
+- LinkedIn: [https://linkedin.com/in/abdul-ahad-momin-95245a27a  ](https://www.linkedin.com/in/abdul-ahad-momin-95245a27a)

@@ -5,7 +5,6 @@ I’m interested in **software development**, **data-driven problem solving**, a
 
 I enjoy learning by building projects and gradually strengthening my fundamentals in **algorithms, backend development, and applied machine learning**.
 
----
 
 ## 🔍 Interests
 - Backend development and APIs  

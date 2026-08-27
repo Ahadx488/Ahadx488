@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Momin Abdul Ahad</h1>
 
+<div id="header" align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
+</div>
+
 <p align="center">
 Final-year Electronics & Communication Engineering student at IIIT Allahabad.<br>
 Interested in Backend Development, Distributed Systems, Machine Learning, and solving real-world problems through software.
@@ -9,11 +13,11 @@ Interested in Backend Development, Distributed Systems, Machine Learning, and so
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year B.Tech student at **IIIT Allahabad**
-- 💻 Solved **700+ DSA problems** across LeetCode and Codeforces
-- 🚀 National Semi-Finalist at **Flipkart Grid 7.0**
-- 🌱 Currently exploring **Distributed Systems, System Design, and Applied Machine Learning**
-- ⚡ I enjoy building scalable backend applications, working with APIs, and turning data into useful insights.
+* 🎓 Final-year B.Tech student at **IIIT Allahabad**
+* 💻 Solved **700+ DSA problems** across LeetCode and Codeforces
+* 🚀 National Semi-Finalist at **Flipkart Grid 7.0**
+* 🌱 Currently exploring **Distributed Systems, System Design, and Applied Machine Learning**
+* ⚡ I enjoy building scalable backend applications, working with APIs, and turning data into useful insights.
 
 ---
 
@@ -48,9 +52,9 @@ Interested in Backend Development, Distributed Systems, Machine Learning, and so
 
 ### 🚀 Projects
 
-- 💰 **Expense-ify** — AI-powered personal finance tracker with JWT authentication, AWS S3 integration, analytics dashboard, and REST APIs.
-- 🌐 **Distributed Social Media Backend** — Microservices architecture using Node.js, RabbitMQ, Redis, Docker, MongoDB, and API Gateway.
-- 📊 Exploring data analysis and machine learning through practical projects involving EDA, feature engineering, and predictive models.
+* 💰 **Expense-ify** — AI-powered personal finance tracker with JWT authentication, AWS S3 integration, analytics dashboard, and REST APIs.
+* 🌐 **Distributed Social Media Backend** — Microservices architecture using Node.js, RabbitMQ, Redis, Docker, MongoDB, and API Gateway.
+* 📊 Exploring data analysis and machine learning through practical projects involving EDA, feature engineering, and predictive models.
 
 ---
 
